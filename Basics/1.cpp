@@ -20,6 +20,8 @@ int main(){
     string text = "Hello World";
     bool my_bool = true; 
 
+    int x = 10, y = 5, z = 2;
+
 
     //Console Output
 
@@ -32,7 +34,7 @@ int main(){
 
     //Console Input
 
-    
+
 
 
     //Basic math operations
