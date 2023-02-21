@@ -22,7 +22,7 @@ int main(){
 
     int x = 10, y = 5, z = 2;
 
-    const int pi = 3.1416;  //A constant is a variable that can not chance its value 
+    const float pi = 3.1416;  //A constant is a variable that can not chance its value 
 
     //Console Output
 
