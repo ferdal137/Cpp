@@ -18,7 +18,9 @@ int main(){
     double decimal = 6.99;
     float large_decimal = 6.9999999999999999;
     char character = "D";
-
+    string text = "Hello World";
+    bool = 
+    
     //Console Output
 
     cout << "Hello World" << endl;
