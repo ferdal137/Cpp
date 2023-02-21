@@ -35,6 +35,9 @@ int main(){
 
     //Console Input
 
+    cout << "Type a number";
+    cin >> integer;
+    cout << "Your number is " << integer;
 
 
 
