@@ -30,6 +30,10 @@ int main(){
     cout << integer;
     cout << "My favorite number is" << integer << "because...";
 
+    //Console Input
+
+    
+
 
     //Basic math operations
 
