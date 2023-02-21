@@ -11,7 +11,6 @@ int main(){
     */
 
 
-
     //Types of variables
 
     int integer = 7;
@@ -19,8 +18,9 @@ int main(){
     float large_decimal = 6.9999999999999999;
     char character = "D";
     string text = "Hello World";
-    bool = 
-    
+    bool my_bool = true; 
+
+
     //Console Output
 
     cout << "Hello World" << endl;
@@ -28,6 +28,10 @@ int main(){
     std::cout<<"Hello World";           //Without the "using namespace std"
 
     cout << integer;
+    cout << "My favorite number is" << integer << "because...";
+
+
+    //Basic math operations
 
     
 
