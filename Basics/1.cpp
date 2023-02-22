@@ -42,8 +42,9 @@ int main(){
     cin >> integer;
     cout << "Your number is " << integer;
 
-    /* Arithmetic Operators
-
+    /* 
+    
+    Arithmetic Operators
     +	Addition
     -	Subtraction		
     *	Multiplication	
@@ -51,6 +52,19 @@ int main(){
     %	Modulus	
     ++	Increment		
     --	Decrement	
+
+    Comparison Operators
+    ==	Equal to		
+    !=	Not equal	
+    >	Greater than	
+    <	Less than	
+    >=	Greater than or equal to	
+    <=	Less than or equal to	
+
+    Logical Operators
+    && 	Logical and		
+    || 	Logical or		
+    !	Logical not		
 
     */
 
