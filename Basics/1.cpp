@@ -24,6 +24,9 @@ int main(){
 
     const float pi = 3.1416;  //A constant is a variable that can not chance its value 
 
+    float f1 = 35e3;      //Power of 10
+    double d1 = 12E4;
+
     //Console Output
 
     cout << "Hello World" << endl;
@@ -39,10 +42,19 @@ int main(){
     cin >> integer;
     cout << "Your number is " << integer;
 
+    /* Arithmetic Operators
 
+    +	Addition
+    -	Subtraction		
+    *	Multiplication	
+    /	Division	
+    %	Modulus	
+    ++	Increment		
+    --	Decrement	
 
-    //Basic math operations
+    */
 
+    
     
 
     return 0;
