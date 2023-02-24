@@ -1,8 +1,10 @@
 # Cpp
 
-Hi everyone! 
+##Hi everyone! 
 
 This is a repo for learn the basics of C++. 
+
+The objective of this repo is show the C++ sintaxis, hence is important have the basic programming logic.
 
 I follow this tutorials: https://www.w3schools.com/cpp/default.asp 
 
