@@ -82,14 +82,14 @@ int main(){
     int time = 22;
 
     if (time < 10) {
-        cout << "Good morning.";
+        cout << "Good morning";
     } else if (time < 20) {
-        cout << "Good day.";
+        cout << "Good day";
     } else {
-        cout << "Good evening.";
+        cout << "Good evening";
     }
     
-    string result = (time < 18) ? "Good day." : "Good evening.";
+    string result = (time < 18) ? "Good day" : "Good evening";
     cout << result;
     
     
