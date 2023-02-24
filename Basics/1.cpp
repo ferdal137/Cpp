@@ -89,9 +89,10 @@ int main(){
         cout << "Good evening";
     }
     
-    string result = (time < 18) ? "Good day" : "Good evening";
+    string result = (time < 18) ? "Good day" : "Good evening";  //Ternary Operator(Short Hand If...Else)
     cout << result;
     
+    // SWITCH
     
     return 0;
 }
