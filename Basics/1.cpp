@@ -1,4 +1,5 @@
 #include <iostream>  //Header file library that lets us work with input and output objects
+#include <cmath>     //Math library
 using namespace std;  //Means that we can use names for objects and variables from the standard library.
 
 int main(){
@@ -43,7 +44,6 @@ int main(){
     cout << "Your number is " << integer;
 
     /* 
-    
     Arithmetic Operators
     +	Addition
     -	Subtraction		
@@ -65,12 +65,19 @@ int main(){
     && 	Logical and		
     || 	Logical or		
     !	Logical not		
+    */
 
+    /* 
+    Math Functions
+
+    abs(x)       acos(x)       asin(x)        atan(x)	        cbrt(x)	
+    ceil(x)	     cos(x)        cosh(x)        exp(x)	        expm1(x)
+    fabs(x)      fdim(x, y)    floor(x)       hypot(x, y)	    fma(x, y, z)
+    fmax(x, y)   fmin(x, y)    fmod(x, y)     log(x)            pow(x, y)
+    round(x)     sin(x)        sinh(x)        sqrt(x)           tan(x)          tanh(x)	
     */
 
     
-    
-
     return 0;
 }
 
