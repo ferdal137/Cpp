@@ -30,7 +30,7 @@ int main(){
     //Console Output
 
     cout << "Hello World" << endl;
-    cout << "I am learning C++ \n";
+    cout << "\t I am learning C++ \n";
     std::cout<<"Hello World";           //Without the "using namespace std"
 
     cout << integer;
