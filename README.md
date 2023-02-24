@@ -1,6 +1,6 @@
 # Cpp
 
-##Hi everyone! 
+## Hi everyone! 
 
 This is a repo for learn the basics of C++. 
 
