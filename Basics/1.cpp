@@ -77,6 +77,15 @@ int main(){
     round(x)     sin(x)        sinh(x)        sqrt(x)           tan(x)          tanh(x)	
     */
 
+
+    // CONDITIONALS
+
+    
+
+
+    
+
+    
     
     return 0;
 }
