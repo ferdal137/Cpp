@@ -93,7 +93,27 @@ int main(){
     cout << result;
     
     // SWITCH
-    
+    int day = 4;
+    switch (day) {
+    case 1:
+        cout << "Monday";
+        break;
+    case 2:
+        cout << "Tuesday";
+        break;
+    case 3:
+        cout << "Wednesday";
+        break;
+    }
+
+    //WHILE
+    int i = 0;
+while (i < 5) {
+  cout << i << "\n";
+  i++;
+}
+
+    //DO WHILE
     return 0;
 }
 
