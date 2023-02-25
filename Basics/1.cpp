@@ -28,6 +28,9 @@ int main(){
     float f1 = 35e3;      //Power of 10
     double d1 = 12E4;
 
+    //Arrays
+
+    
     //Console Output
 
     cout << "Hello World" << endl;
@@ -116,7 +119,7 @@ int main(){
     }
 
     //LOOPS
-    
+
     //DO WHILE
     int i = 0;
 
