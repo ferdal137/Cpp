@@ -94,6 +94,7 @@ int main(){
     
     // SWITCH
     int day = 4;
+
     switch (day) {
     case 1:
         cout << "Monday";
@@ -108,12 +109,30 @@ int main(){
 
     //WHILE
     int i = 0;
-while (i < 5) {
-  cout << i << "\n";
-  i++;
-}
 
+    while (i < 5) {
+    cout << i << "\n";
+    i++;
+    }
+
+    //LOOPS
+    
     //DO WHILE
+    int i = 0;
+
+    do {
+    cout << i << "\n";
+    i++;
+    }
+    while (i < 5);
+
+    //FOR
+    for (int i = 0; i < 5; i++) {
+    cout << i << "\n";
+    }
+
+
+
     return 0;
 }
 
