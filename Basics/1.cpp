@@ -30,7 +30,7 @@ int main(){
 
     //Arrays
 
-    
+    string cars[4] = {"Volvo", "BMW", "Ford", "Mazda"};
     //Console Output
 
     cout << "Hello World" << endl;
