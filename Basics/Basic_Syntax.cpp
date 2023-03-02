@@ -78,7 +78,7 @@ int main(){
     ceil(x)	     cos(x)        cosh(x)        exp(x)	        expm1(x)
     fabs(x)      fdim(x, y)    floor(x)       hypot(x, y)	    fma(x, y, z)
     fmax(x, y)   fmin(x, y)    fmod(x, y)     log(x)            pow(x, y)
-    round(x)     sin(x)        sinh(x)        sqrt(x)           tan(x)          tanh(x)	
+    round(x)     sin(x)        sinh(x)        sqrt(x)           tan(x)           tanh(x)	
     */
 
 
