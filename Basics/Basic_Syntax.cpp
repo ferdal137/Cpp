@@ -34,9 +34,9 @@ int main(){
     cout << sizeof(myNum);
 
     string letters[2][4] = {
-    { "A", "B", "C", "D" },               
+    { "A", "B", "C", "D" },       //Multi-Dimensional Arrays      
     { "E", "F", "G", "H" }
-    }
+    };
 
     //Console Output
 
