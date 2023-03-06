@@ -29,7 +29,7 @@ int main(){
     double d1 = 12E4;
 
     //Arrays
-    string cars[4] = {"Volvo", "BMW", "Ford", "Mazda"};
+    string cars[] = {"Volvo", "BMW", "Ford", "Mazda"};
     int myNum[3] = {10, 20, 30};
 
     //Console Output
