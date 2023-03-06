@@ -31,6 +31,8 @@ int main(){
     //Arrays
     string cars[] = {"Volvo", "BMW", "Ford", "Mazda"};
     int myNum[3] = {10, 20, 30};
+
+    cout << cars[1];   
     cout << sizeof(myNum);
 
     string letters[2][4] = {
