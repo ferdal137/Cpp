@@ -1,5 +1,7 @@
 #include <iostream>  //Header file library that lets us work with input and output objects
 #include <cmath>     //Math library
+#include <string>    //String library
+
 using namespace std;  //Means that we can use names for objects and variables from the standard library.
 
 int main(){
@@ -40,6 +42,18 @@ int main(){
     { "E", "F", "G", "H" }
     };
     cout << letters[0][2]; 
+
+
+    //Structs
+    struct {             // Structure declaration
+    int myNum;         // Member (int variable)
+    string myString;   // Member (string variable)
+    }myStructure;       // Structure variable
+
+
+
+
+
 
     //Console Output
 
