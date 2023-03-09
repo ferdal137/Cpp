@@ -1,3 +1,7 @@
+//WARNING
+//If you try to execute this C++ script will have a lot of erros
+//The intention of this code is only show you the basics sintax of C++ 
+
 #include <iostream>  //Header file library that lets us work with input and output objects
 #include <cmath>     //Math library
 #include <string>    //String library
