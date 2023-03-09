@@ -60,7 +60,16 @@ int main(){
     cout << myStructure.myString << "\n";
 
 
+    //References
 
+    string food = "Pizza";
+    string &meal = food;
+
+    cout << food << "\n";  // Outputs Pizza
+    cout << meal << "\n";  // Outputs Pizza
+    cout << &food; // Outputs 0x6dfed4
+
+    //Pointers
 
     //Console Output
 
