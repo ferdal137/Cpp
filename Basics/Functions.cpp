@@ -2,14 +2,18 @@
 
 using namespace std;
 
-// Create a function
-void myFunction() {
-  cout << "I just got executed!";
+// Function declaration
+void myFunction();
+
+// The main method
+int main() {
+  myFunction();  // call the function
+  return 0;
 }
 
-int main() {
-  myFunction(); // call the function
-  return 0;
+// Function definition
+void myFunction() {
+  cout << "I just got executed!";
 }
 
 // Outputs "I just got executed!"
