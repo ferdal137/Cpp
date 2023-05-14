@@ -14,3 +14,4 @@ Classes and objects are the two main aspects of object-oriented programming.
 
 Look at the following illustration to see the difference between class and objects:
 
+![Example](https://phpenthusiast.com/theme/assets/images/articles/classes_and_objects.jpg)
